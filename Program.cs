@@ -15,10 +15,10 @@ namespace TwitterAPIApp
             {
                 CredentialStore = new InMemoryCredentialStore
                 {
-                    ConsumerKey = "dAv6QDI0jUrYvbG6HrPTcEdey",
-                    ConsumerSecret = "dhU6oak2Grs7A6KAlAqQ2mc0QfRN2n29esi5oMMlGggP2Le4Nk",
-                    OAuthToken = "925200972-Z8BN4Bmd4n43SR6llbXM9FOtFIjFKfrnmFGhm82s",
-                    OAuthTokenSecret = "bebuqbZccPhxwOfOA0Y3o8apbcfk8MbSA3rhUadrK1JRk"
+                    ConsumerKey = "Consumer Key",
+                    ConsumerSecret = "Consumer Key Secret",
+                    OAuthToken = "Access Token",
+                    OAuthTokenSecret = "Access Token Secret"
                 }
             };
             
